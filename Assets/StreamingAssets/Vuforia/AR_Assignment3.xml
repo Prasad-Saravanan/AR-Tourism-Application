@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MARKER_VIDEO" size="5.000000 3.750000" />
+    <ImageTarget name="MARKER_3D_MODEL" size="5.000000 2.406015" />
+    <ImageTarget name="MARKER_IMAGE" size="5.000000 1.666667" />
+    <ImageTarget name="Marker_Audio" size="5.000000 7.112971" />
+    <ImageTarget name="FKOM_Poster" size="5.000000 7.077326" />
+  </Tracking>
+</QCARConfig>
